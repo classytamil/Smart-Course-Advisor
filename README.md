@@ -17,6 +17,23 @@ The app provides **personalized suggestions** and feedback using a trained **Ran
 - ✅ Trained with **synthetic dataset**  
 
 ---
+<p align="center">
+  <img src="asset/1.png" alt="Real-Time Transcription App" width="80%">
+</p>
+
+<p align="center">
+  <img src="asset/2.png" alt="Real-Time Transcription App" width="80%">
+</p>
+
+<p align="center">
+  <img src="asset/3.png" alt="Real-Time Transcription App" width="80%">
+</p>
+
+<p align="center">
+  <img src="asset/4.png" alt="Real-Time Transcription App" width="80%">
+</p>
+---
+
 
 ## 🛠 Installation
 
